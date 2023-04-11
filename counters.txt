@@ -1,0 +1,3 @@
+\Processor(_Total)\% Processor Time
+\Memory\% Committed Bytes In Use
+\PhysicalDisk(_Total)\% Disk Time
